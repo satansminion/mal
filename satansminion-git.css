@@ -6,10 +6,7 @@ div#grand_totals{
 	border-right:5px solid rgba(0,0,0,0);
 	border-radius:50px;
 	box-shadow: 0 0 15px #2187e7; 
-	width:30px;
-	height:30px;
 	margin:0 auto;
-	position:relative;
 	top:-50px;
 	-moz-animation:spinoffPulse 1s infinite linear;
 	-webkit-animation:spinoffPulse 1s infinite linear;
