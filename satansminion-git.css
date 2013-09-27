@@ -1,14 +1,1 @@
 body{background:red;}
-/*
-copyright contains the "Producted by Garrett Gyssler" text
-DO NOT REMOVE OR HIDE THIS DIV
-IF FOUND TO BE REMOVED, YOUR LIST WILL BE REMOVED TOO
-*/
-
-#copyright
-{
-	padding-top: 6px;
-	text-align: center;
-	margin: 0 auto;
-	width: 10px;
-}
