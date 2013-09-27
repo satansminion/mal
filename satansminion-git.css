@@ -1,7 +1,7 @@
 body{background:#1f1f1f;color:red;}
 div#grand_totals{
     background-color: rgba(0, 0, 0, 0);
-    border-color: rgba(0, 183, 229, 0.9) rgba(0, 0, 0, 0);
+    border-color: rgba(0, 183, 229, 0.9);
     border-image: none;
     border-radius: 50px 50px 50px 50px;
     border-style: solid;
