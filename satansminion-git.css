@@ -1,10 +1,5 @@
 body{background:#161616;}
 div#grand_totals{
-    -moz-border-bottom-colors: none;
-    -moz-border-left-colors: none;
-    -moz-border-right-colors: none;
-    -moz-border-top-colors: none;
-    animation: 1s ease-in-out 0s normal none infinite spinPulse;
     background-color: rgba(0, 0, 0, 0);
     border-color: rgba(0, 183, 229, 0.9) rgba(0, 0, 0, 0);
     border-image: none;
@@ -12,6 +7,5 @@ div#grand_totals{
     border-style: solid;
     border-width: 5px;
     box-shadow: 0 0 35px #2187E7;
-    margin: 0 auto;
     opacity: 0.9;
 }
